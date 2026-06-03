@@ -62,7 +62,7 @@ vless://[填入你的UUID]@[填入你的CF域名]:443?encryption=none&security=t
 只需粘贴上面的基础节点链接，再随意粘贴一批优选 IP（无惧乱码，自动分行），工具就能一瞬间裂变出几十个属于你的极速优选节点！
 
 👉 点击此处获取一键生成工具：科技共享专属博客
-[复制链接前往]https://kjgx668.blogspot.com/2026/06/vless-body-font-family-segoe-ui-tahoma.html)](https://kjgx668.blogspot.com/2026/06/vless-body-font-family-segoe-ui-tahoma.html
+[复制链接前往] https://kjgx668.blogspot.com/2026/06/vless-body-font-family-segoe-ui-tahoma.html
 
 ## ⚖️ 许可协议与免责声明 (License & Disclaimer)
 
